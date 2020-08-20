@@ -1,8 +1,8 @@
 ## What is JavaScript SimpleLib?
 
 Just a simple set of scripts implementing common tasks like:
+
 - Ajax calls with spinners;
-- Several utilities methods to show Sweet Alerts (https://sweetalert2.github.io/);
 
 ## Ajax Calls
 
